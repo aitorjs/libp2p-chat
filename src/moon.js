@@ -10,6 +10,7 @@ const p = Pushable()
 const chalk = require('chalk');
 const emoji = require('node-emoji')
 
+
 PeerId.createFromJSON(require('./ids/moonId'), (err, peerId) => {
     if (err) {
         throw err

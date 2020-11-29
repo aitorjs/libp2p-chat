@@ -2,7 +2,7 @@
 
 ## What?
 
-Make two libp2p nodes with encrypted connection and communitate each other
+Make two libp2p nodes with encrypted connection and communicate each other
 
 ## Install
 
